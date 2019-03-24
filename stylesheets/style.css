@@ -1,0 +1,57 @@
+body {
+   	font-size : 11pt;	
+	//background-color: #CFF981;
+	background-color: #d8f970;
+}
+
+.frame{
+	//width:1000px;
+	height:706px;
+	margin:0 auto;
+	border:1px solid;
+	text-align:center;
+	//background:url(images/gg.png) no-repeat fixed left;
+}
+
+.header{
+	//width:1000px;
+	height:100px;
+	text-align:center;
+	line-height:100px;
+	
+	
+}
+
+.footer{
+	//width:1000px;
+	height:80px;
+	text-align:center;
+	line-height:100px;
+	
+	
+}
+p{
+	color:#ccffcc;
+	font-size:16pt;
+}
+.spword{
+	color:DodgerBlue;
+	font-size:12pt;
+	border-style: solid;
+	margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+}
+
+.spword2{
+	background-color:Tomato;
+	color:#ccffcc;
+	font-size:16pt;	
+	border-style: solid;
+	margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+	padding: 25px 30px 35px 40px
+}
